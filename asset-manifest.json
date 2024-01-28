@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gangatech/static/css/main.8fb2d629.css",
+    "main.js": "/gangatech/static/js/main.43762178.js",
+    "static/js/787.707e1267.chunk.js": "/gangatech/static/js/787.707e1267.chunk.js",
+    "static/media/heroimage.jpg": "/gangatech/static/media/heroimage.b249144ae22d205390a9.jpg",
+    "static/media/solutions.jpg": "/gangatech/static/media/solutions.0d66fdcf482699b76169.jpg",
+    "static/media/business.jpg": "/gangatech/static/media/business.ecb98b654e869df921c9.jpg",
+    "static/media/logo_gtech.svg": "/gangatech/static/media/logo_gtech.fefdfde57cefb9268bb2716a15ab9f36.svg",
+    "index.html": "/gangatech/index.html",
+    "static/media/greentick.svg": "/gangatech/static/media/greentick.b6f55fcadc8224b4fe4d.svg",
+    "static/media/down-arrow.svg": "/gangatech/static/media/down-arrow.a060a4cb67aef58fd34755898d8033eb.svg",
+    "main.8fb2d629.css.map": "/gangatech/static/css/main.8fb2d629.css.map",
+    "main.43762178.js.map": "/gangatech/static/js/main.43762178.js.map",
+    "787.707e1267.chunk.js.map": "/gangatech/static/js/787.707e1267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fb2d629.css",
+    "static/js/main.43762178.js"
+  ]
+}
