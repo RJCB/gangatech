@@ -1,7 +1,7 @@
 {
   "name": "gangatech",
   "version": "0.1.0",
-  "homepage": "https://rjcb.github.io/gangatech",
+  "homepage": "https://rjcb.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
